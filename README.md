@@ -35,7 +35,6 @@ MindFlow gives them a safe place.
 ## Latest Build
 👉 Download the APK from the Releases section.
 
-```bash
 MindFlow.apk
 ✨ Features
 📝 Fast diary writing
